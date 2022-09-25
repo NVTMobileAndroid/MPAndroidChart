@@ -200,4 +200,5 @@ These people rock!
 - [mikegr](https://github.com/mikegr) - Michael Greifeneder
 - [tony](https://github.com/tonypatino-monoclesociety) - Tony
 - [almic](https://github.com/almic) - Mick A.
+-https://weeklycoding.com/mpandroidchart-documentation/
 - [jitpack.io](https://github.com/jitpack-io) - JitPack.io
